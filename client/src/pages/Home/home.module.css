@@ -1,0 +1,19 @@
+.about{
+  background-color: #f6214b;
+  height: 100vh;
+  background-image: url('https://preview.colorlib.com/theme/immigration/img/header-img.png.webp');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  padding-top: 300px;
+  display: flex;
+
+  align-items: center;
+  padding-left: 20%;
+  font-size: 30px;
+  
+  
+
+}
+button:hover{
+    background-color:  #f6214b;
+}
